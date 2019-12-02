@@ -1,2 +1,0 @@
-# store
-store » cores » go
